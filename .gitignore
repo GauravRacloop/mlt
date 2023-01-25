@@ -1,0 +1,7 @@
+/nbproject/private/private.xml
+/nbproject/private/private.properties
+/nbproject/private/config.properties
+hs_err*
+libmlt*
+nbproject/build-impl.xml
+/target/
